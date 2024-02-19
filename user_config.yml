@@ -1,0 +1,3 @@
+# User-specific configuration for the Pokémon API
+pokemon_api_user_config:
+  pokemon_id: 25  # Default Pokémon ID (Pikachu)

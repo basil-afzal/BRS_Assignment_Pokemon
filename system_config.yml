@@ -1,0 +1,3 @@
+
+# Pokémon API endpoint for retrieving Pokémon data
+pokemon_api_endpoint: https://pokeapi.co/api/v2/pokemon/
